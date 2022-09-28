@@ -38,9 +38,14 @@ $ npm run ios
 ```
 
 ##### Description
-       1. With this app we can create number of Employees ,
-       2. we can alot them a slot for their Working hours in a week
-       3. user can apply leave on any day in a week
-       4. user can Edit the shedule 
-        
+              This App is about, An Employer can schedule the work time of his employees for a week.
+What all are the features that an Employer can Play with ?
+       Employer can add number of employees , 
+       He can shedule the working time , 
+       He can edit the sheduled time , 
+       And he can also delete the employee if he need.
+
+##### Note
+       I have used only Redux for Data management,
+       In Future it can plug with cloud.
         
