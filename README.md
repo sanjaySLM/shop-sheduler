@@ -41,8 +41,8 @@ $ npm run ios
               This App is about, An Employer can schedule the work time of his employees for a week.
 #####  What all are the features that an Employer can Play with ?
        Employer can add number of employees , 
-       He can shedule the working time , 
-       He can edit the sheduled time , 
+       He can schedule the working time , 
+       He can edit the scheduled time , 
        And he can also delete the employee if he need.
 
 ##### Note
